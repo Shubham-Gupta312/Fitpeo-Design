@@ -2,6 +2,7 @@ import React from 'react'
 import './Graph.css';
 import { Chart as ChartJS, BarElement, CategoryScale, LinearScale, Tooltip, Legend } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
+import Piegraph from '../PieGraph/Piegraph';
 
 ChartJS.register(
     BarElement, CategoryScale, LinearScale, Tooltip, Legend
@@ -47,7 +48,9 @@ const Graph = () => {
                         </div>
                     </div>
                 </div>
-                <div className='piechart-container'></div>
+                <div className='piechart-container'>
+                   <Piegraph/>
+                </div>
             </div>
         </>
     )

@@ -1,0 +1,5 @@
+.pie-graph{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+.pie-text{display: flex; flex-direction: column;align-items: start; margin-left: 5px;}
+.pie-text h3{margin-top: 3px;}
+.pie-text P{margin-top: -15px;color: #cac5c4;font-size: 13px;}
+.pie-graph canvas {width: 18vw !important;height: 36vh !important;margin-top: -12px;}

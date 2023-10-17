@@ -6,7 +6,7 @@
 .cards{height: 22vh; width: 20vw;  margin-left : 15px; background-color: #f5f5f5; border-radius: 5px;}
 .card-item{ display: flex; margin-top: 20px; gap: 5px; padding: 5px;}
 .card-logo{height: 15vh; width: 50%;  border-radius: 50%; display: flex; align-items: center; justify-content: center; background-color: #dcf7dc;}
-.card-logo svg{font-size: 5rem; color: #27fc35;}
+.card-logo svg{font-size: 3.5rem; color: #27fc35;}
 .card-content{height: 15vh; width: 50%; }
 .span-content{display: flex; flex-direction: column; margin-top: 10px; align-items: start;}
 .card-content span{font-size: 13px;}
@@ -14,4 +14,4 @@
 .card-content .content-title{color: #c2bebe;}
 .card-content .rate{font-size: 10px; font-weight: 600;}
 .card-content .rate strong{color: #80ec80;}
-.graph-container{height: 45svh; width: 100%; border: 2px solid red; margin-top: 5px;}
+.graph-container{height: 45svh; width: 100%; margin-top: 5px;}
