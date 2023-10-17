@@ -1,0 +1,9 @@
+.graph-section{display: flex; flex-direction: row; gap: 10px;}
+.bargrpah-container{height: 45vh; width: 75vw; border: 2px solid green;}
+.piechart-container{height: 45vh; width: 25vw; border: 2px solid brown;}
+.top-nav{height: 7vh; width: 100%; border: 2px solid yellow;}
+.graph{height: 37vh; width: 100%; border: 2px solid blue;}
+canvas{width: 55vw !important;}
+.top-nav{display: flex; flex-direction: row; gap: 75%; align-items: center; justify-content: center;}
+.text p{font-weight: bold; font-size: 15px;}
+.custom-select select{ border: none; color: #a59c9c; border-radius: 5px; padding: 5px; font-size: 14px; background-color: #eaeafa;}

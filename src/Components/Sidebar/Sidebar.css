@@ -4,5 +4,5 @@
 .sidebar-title h2{font-weight: 600; font-family:sans-serif;}
 .sidebar-title svg{font-size: 25px; font-weight: bold;}
 .sidebar-nav{height: 90vh; width: 20vw; margin-top: 35px; display: flex; flex-direction: column; gap: 25px; font-size: 18px; color: #ecdfdf; font-weight: 400;}
-.sidebar-items{display: flex; gap: 15px; margin-left: 25px;}
-.section{height: 100vh; width: 80vw; border: 2px solid red;}
+.sidebar-items{display: flex; gap: 15px; margin-left: 25px; cursor: pointer;}
+.section{height: 100vh; width: 80vw; }
